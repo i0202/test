@@ -1,2 +1,4 @@
-Develop: Config1
-Develop: Config2
+//Develop: Config1
+//Develop: Config2
+Qa: Config1
+Qa: Config2
